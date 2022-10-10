@@ -20,9 +20,7 @@
         "php": "7.3.* || 7.4.*",
         "ext-curl": "*",
         "ext-openssl": "*",
-        "ext-soap": "*",
-        "phpseclib/phpseclib": "2.0.31",
-        "tecnickcom/tcpdf": "6.4.1"
+        "ext-soap": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "9.5.4"
